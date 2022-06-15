@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Alejandro del Moral!</h1>
-<h3 align="center">Final year student of Industrial Electronics and Automation Engineering at Universidad Politécnica de Madrid. <br>
-  Hardware development engineer at Ampacimon - internship contract. <br>
-  Always learning.</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Industrial+Electronics+and+Automation+Engineer.;Hardware+development+engineer+at+Ampacimon.;Always+learning.&font=Consolas%color=0e75b6%20Code&duration=4000&background=57575700&center=true&width=600">
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alejandrodelmoral&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrodelmoral" /> </p>
 
