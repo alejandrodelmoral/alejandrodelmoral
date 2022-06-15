@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Alejandro del Moral!</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Alejandro del Moral!</h1>
 <h3 align="center">Final year student of Industrial Electronics and Automation Engineering at Universidad Politécnica de Madrid. <br>
   Hardware development engineer at Ampacimon - internship contract. <br>
   Always learning.</h3>
