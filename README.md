@@ -26,6 +26,6 @@
 
 <h2> :fire: My Stats </h2>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=alejandrodelmoral&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /><br/><br/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=alejandrodelmoral&theme=dark&background=000000&date_format=j/n/Y" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodelmoral&layout=compact&theme=vision-friendly-dark" />
 </div>
