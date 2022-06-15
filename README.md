@@ -7,8 +7,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alejandrodelmoral&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrodelmoral" /> </p>
 
 <h2> 👨‍💻 About Me </h2>
-- 📖 Final year student of the Degree in Electronic and Automatic Engineering
-- 💼 I’m currently working on high frequency amplifier at Ampacimon and on the Final Degree Project
+- 📖 Final year student of the Degree in Electronic and Automatic Engineering <br>
+- 💼 I’m currently working on high frequency amplifier at Ampacimon
 
 <br/>
 
