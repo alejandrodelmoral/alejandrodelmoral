@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Alejandro del Moral!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Industrial+Electronics+and+Automation+Engineer.;Hardware+development+engineer+at+Ampacimon.;Always+learning.&font=Consolas%color=0e75b6%20Code&duration=4000&background=57575700&center=true&width=600">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Industrial+Electronics+and+Automation+Engineer.;Automation&#44+Electronics+and+Industrial+Control+Master's+Degree.;Always+learning.&font=Consolas%color=0e75b6%20Code&duration=3000&pause=500&multiline=true&background=57575700&center=true&width=750&height=80">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alejandrodelmoral&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrodelmoral" /> </p>
